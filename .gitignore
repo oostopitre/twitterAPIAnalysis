@@ -1,5 +1,6 @@
 map
 gazetter
 archive
-*.sublime*
+*.sublime-project
+*.sublime-workspace
 
